@@ -1,4 +1,4 @@
-# wcci-interview-archive
+# interview-archive
 
 This repo is for everyone to begin logging potential interview questions our students may need to answer
 The following are actual questions asked to students during their interview.
